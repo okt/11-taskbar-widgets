@@ -90,7 +90,7 @@ Meter=Image
 X=0
 Y=0
 W=0
-H=(48 * #meterScaleDisk#)
+H=(46 * #meterScaleDisk#)
 
 ;------------------
 
