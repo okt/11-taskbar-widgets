@@ -23,13 +23,13 @@ colorRedDim=204,36,29,140
 ; colorRedDim=245,50,50,140
 colorPurple=220,80,220,220
 colorBlue=108,182,255,220
-
+colorBlueDim=108,182,255,140
 colorBlueCpu=108,182,255,30
-colorBlueDim=100,150,250,140
+; colorBlueDim=100,150,250,140
 colorBlueSolid=69,133,136,255
 colorBlueLite=180,220,255,220
 colorGreen=142,192,124,220
-colorGreenDim=100,250,100,140
+colorGreenDim=87,171,90,140
 colorWhite=235,219,178,220
 colorWhiteLit=255,255,255,170
 colorWhiteDim=255,255,255,170
