@@ -36,7 +36,15 @@ HWiNFO-CPU0-MB-SensorInstance=0x1
 HWiNFO-CPU0-MB-Fan-Rpm=0x3000000
 HWiNFO-CPU0-Mhz-SensorId=0xf0000300
 HWiNFO-CPU0-Mhz-SensorInstance=0x0
-HWiNFO-CPU0-Mhz-Entry=0x6000000
+HWiNFO-CPU0-Mhz-Entry=
+
+; Battery
+HWINFO-Battery-SensorId=0xf000ba00
+HWINFO-Battery-SensorInstance=0x0
+HWINFO-Battery-Charge-Entry=0x8000001
+HWINFO-Battery-Voltage-Entry=0x2000000
+HWINFO-Battery-Remaining-Entry=0x8000004
+HWINFO-Battery-Capacity-Entry=0x8000000
 
 
 ; GPU 0 usage/load
