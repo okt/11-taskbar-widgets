@@ -4,7 +4,7 @@
 HWiNFO-CPU0-SensorId=0xf0000300
 HWiNFO-CPU0-SensorInstance=0x0
 HWiNFO-CPU0-Usage=0x700000d
-HWiNFO-CPU0-Core0Clock=0x6000000
+HWiNFO-CPU0-Core0Clock=0x6002712
 HWiNFO-CPU0-Core1Clock=0x6000001
 HWiNFO-CPU0-Core2Clock=0x6000002
 HWiNFO-CPU0-Core3Clock=0x6000003
@@ -45,7 +45,6 @@ HWINFO-Battery-Charge-Entry=0x8000001
 HWINFO-Battery-Voltage-Entry=0x2000000
 HWINFO-Battery-Remaining-Entry=0x8000004
 HWINFO-Battery-Capacity-Entry=0x8000000
-
 
 ; GPU 0 usage/load
 HWiNFO-GPU0-Usage-SensorId=0xf0002a00
