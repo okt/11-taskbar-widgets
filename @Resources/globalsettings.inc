@@ -8,7 +8,7 @@ SolidColor=#BackgroundColor#
 Name=GlobalSettings
 Author=okt
 Information=Global default values for all meters.
-License=Creative Commons BY-NC-SA 3.0
+License=MIT
 Version=2.3.0
 
 
