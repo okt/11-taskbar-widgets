@@ -1,9 +1,6 @@
 [Rainmeter]
 BackgroundMargins=0,0,0,0
 Group=Disks|AllPerf
-MouseOverAction=[!ShowMeter "meterOpenDiskConfigSkin"][!UpdateMeter "meterOpenDiskConfigSkin"][!Redraw]
-MouseLeaveAction=[!HideMeter "meterOpenDiskConfigSkin"][!UpdateMeter "meterOpenDiskConfigSkin"][!Redraw]
-OnRefreshAction=[!HideMeter "meterOpenDiskConfigSkin"][!UpdateMeter "meterOpenDiskConfigSkin"][!Redraw]
 
 [Metadata]
 Name=DiskMeter
@@ -17,7 +14,6 @@ Version=2.1.0
 @IncludeHWiNFO=#@#HWiNFO.inc
 HistogramWidth=80
 disk1=#disk1#
-
 
 ;------------------------------
 ;------------------------------
