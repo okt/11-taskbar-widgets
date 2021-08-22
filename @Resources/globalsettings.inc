@@ -75,7 +75,7 @@ DiskConfigSkinLoc=SimplePerfMeters\DiskConfig
 ;GPUSkinLoc=SimplePerfMeters\GPU
 ;GPUConfigSkinLoc=SimplePerfMeters\GPU\config
 
-BackgroundColor=255,255,255,0
+BackgroundColor=29,32,33,255
 
 
 meterScaleClock=1.0
