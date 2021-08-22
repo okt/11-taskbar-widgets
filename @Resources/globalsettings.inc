@@ -59,6 +59,7 @@ colorCore10=#colorWhite#
 colorCore11=#colorBlueLite#
 
 fontName=Segoe UI
+ClockFontName=JuliaMono
 textSizeMd=12
 textSize=8
 
