@@ -201,7 +201,7 @@ DiskColor8tempOffSelect=245,80,80,220
 DiskColor8tempOnSelect=255,255,255,50
 
 1_DriveTempOnOff=0
-2_DriveTempOnOff=0
+2_DriveTempOnOff=1
 3_DriveTempOnOff=0
 4_DriveTempOnOff=1
 5_DriveTempOnOff=1
