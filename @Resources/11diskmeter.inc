@@ -7,7 +7,7 @@ OnRefreshAction=[!HideMeter "meterOpenDiskConfigSkin"][!UpdateMeter "meterOpenDi
 
 [Metadata]
 Name=DiskMeter
-Author=TGonZo
+Author=okt
 Information=Shows disk usage and activity.
 License=Creative Commons BY-NC-SA 3.0
 Version=2.1.0

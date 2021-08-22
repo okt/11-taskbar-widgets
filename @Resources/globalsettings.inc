@@ -6,7 +6,7 @@ SolidColor=#BackgroundColor#
 
 [Metadata]
 Name=GlobalSettings
-Author=TGonZo
+Author=okt
 Information=Global default values for all meters.
 License=Creative Commons BY-NC-SA 3.0
 Version=2.3.0
