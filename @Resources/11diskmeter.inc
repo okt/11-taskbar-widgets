@@ -7,7 +7,7 @@ Name=DiskMeter
 Author=okt
 Information=Shows disk usage and activity.
 License=MIT
-Version=2.1.0
+Version=0.1.0
 
 [Variables]
 @IncludeGlobal=#@#globalsettings.inc

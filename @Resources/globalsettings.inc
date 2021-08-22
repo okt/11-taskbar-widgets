@@ -9,7 +9,7 @@ Name=GlobalSettings
 Author=okt
 Information=Global default values for all meters.
 License=MIT
-Version=2.3.0
+Version=0.1.0
 
 
 ;-----------------------------
