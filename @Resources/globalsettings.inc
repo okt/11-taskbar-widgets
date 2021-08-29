@@ -30,7 +30,8 @@ colorBlueSolid=69,133,136,255
 colorBlueLite=180,220,255,220
 colorGreen=142,192,124,220
 colorGreenDim=87,171,90,140
-colorWhiteDim=235,219,178,220
+; colorWhiteDim=235,219,178,220
+colorWhiteDim=175,186,200, 220
 colorWhiteLit=255,255,255,170
 colorWhite=255,255,255,170
 colorWhiteDimLow=168,153,132,220
@@ -75,7 +76,9 @@ DiskConfigSkinLoc=SimplePerfMeters\DiskConfig
 ;GPUSkinLoc=SimplePerfMeters\GPU
 ;GPUConfigSkinLoc=SimplePerfMeters\GPU\config
 
-BackgroundColor=29,32,33,255
+; BackgroundColor=29,32,33,255
+BackgroundColor=34,36,40, 255
+
 
 
 meterScaleClock=1.0
